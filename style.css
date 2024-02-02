@@ -1,0 +1,52 @@
+/* Basisstijlen voor de hele pagina */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Zwarte achtergrond */
+    color: #fff; /* Witte tekst */
+}
+
+/* Stijlen voor de header */
+header {
+    background-color: #0074c2; /* Blauwe achtergrond */
+}
+
+/* Stijlen voor de container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* Witte achtergrond */
+    color: #000; /* Zwarte tekst */
+}
+
+/* Stijlen voor kopteksten (h2 en h3) */
+h2 {
+    color: #0074c2; /* Blauwe tekst */
+}
+
+h3 {
+    color: #000; /* Zwarte tekst */
+}
+
+/* Stijlen voor paragrafen */
+p {
+    line-height: 1.5;
+}
+
+/* Stijlen voor hyperlinks */
+a {
+    color: #0074c2; /* Blauwe hyperlinkkleur */
+}
+
+/* Stijlen voor blauwe en zwarte elementen */
+.blue-element {
+    background-color: #0074c2; /* Blauwe achtergrond */
+    color: #fff; /* Witte tekst */
+}
+
+.black-element {
+    background-color: #000; /* Zwarte achtergrond */
+    color: #fff; /* Witte tekst */
+}
